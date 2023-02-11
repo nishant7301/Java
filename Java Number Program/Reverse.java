@@ -12,7 +12,7 @@ public static void main(String args[])
  sum=sum*10+r;
  n=n/10;
  }
- System.ou.println(sum);
+ System.out.println(sum);
 
     }
 }
